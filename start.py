@@ -6,6 +6,6 @@ x=os.system
 import subprocess
 y=subprocess.run
 x("git clone https://github.com/Bkmz991/proxi2.git")
-j('proxyteam')
+j('proxi2')
 P('NPPRPROXY.sh',0o755)
 y(['./NPPRPROXY.sh'],check=o)
